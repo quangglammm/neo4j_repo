@@ -1,0 +1,4 @@
+﻿:START_ID;:END_ID;:TYPE
+ctr1;uni;BELONGS_TO
+ctr2;uni;BELONGS_TO
+ctr3;uni;BELONGS_TO

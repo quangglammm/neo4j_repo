@@ -1,0 +1,21 @@
+﻿id:ID;name;englishName;level;durationYears;isHonor;facultyId;website;:LABEL
+prog1;Cử nhân Công nghệ Thông tin;Bachelor of Information Technology;Undergraduate;4;FALSE;fac6;https://tuyensinh.uit.edu.vn/nganh-dao-tao/nganh-cong-nghe-thong-tin;Program
+prog2;Cử nhân Hệ thống Thông tin;Bachelor of Information Systems;Undergraduate;4;FALSE;fac2;https://tuyensinh.uit.edu.vn/nganh-dao-tao/nganh-he-thong-thong-tin;Program
+prog3;Cử nhân Khoa học Máy tính;Bachelor of Computer Science;Undergraduate;4;FALSE;fac1;https://tuyensinh.uit.edu.vn/nganh-dao-tao/nganh-khoa-hoc-may-tinh;Program
+prog4;Kỹ sư Kỹ thuật Máy tính;Bachelor of Computer Engineering;Undergraduate;4;FALSE;fac4;https://tuyensinh.uit.edu.vn/nganh-dao-tao/nganh-ky-thuat-may-tinh;Program
+prog5;Kỹ sư Kỹ thuật Phần mềm;Bachelor of Software Engineering;Undergraduate;4;FALSE;fac3;https://tuyensinh.uit.edu.vn/nganh-dao-tao/nganh-ky-thuat-phan-mem;Program
+prog6;Cử nhân MMT và Truyền thông dữ liệu;Bachelor of Computer Networks and Data Communications;Undergraduate;4;FALSE;fac5;https://tuyensinh.uit.edu.vn/nganh-dao-tao/nganh-mang-may-tinh-truyen-thong-du-lieu;Program
+prog7;Kỹ sư An toàn Thông tin;Bachelor of Information Security;Undergraduate;4;FALSE;fac5;https://tuyensinh.uit.edu.vn/nganh-dao-tao/nganh-an-toan-thong-tin;Program
+prog8;Cử nhân Thương mại Điện tử;Bachelor of E-Commerce;Undergraduate;4;FALSE;fac2;https://tuyensinh.uit.edu.vn/nganh-dao-tao/nganh-thuong-mai-dien-tu;Program
+prog9;Cử nhân Khoa học Dữ liệu;Bachelor of Data Science;Undergraduate;4;FALSE;fac6;https://tuyensinh.uit.edu.vn/nganh-dao-tao/nganh-khoa-hoc-du-lieu;Program
+prog10;Cử nhân Trí tuệ Nhân tạo;Bachelor of Artificial Intelligence;Undergraduate;4;FALSE;fac1;https://tuyensinh.uit.edu.vn/nganh-dao-tao/nganh-tri-tue-nhan-tao;Program
+prog11;Kỹ sư Thiết kế Vi mạch;Bachelor of Microcircuit Design;Undergraduate;4;FALSE;fac4;https://tuyensinh.uit.edu.vn/nganh-dao-tao/nganh-thiet-ke-vi-mach;Program
+prog12;Cử nhân Tài năng Khoa học Máy tính;Bachelor of Computer Science Talent;Undergraduate;4;TRUE;fac1;https://www.uit.edu.vn/cu-nhan-tai-nang;Program
+prog13;Kỹ sư Tài năng An toàn Thông tin;Information Security Talent;Undergraduate;4.5;TRUE;fac5;https://www.uit.edu.vn/cu-nhan-tai-nang;Program
+prog14;Thạc sỹ Khoa học Máy tính;Master of Computer Science;Graduate;2;FALSE;fac1;https://www.uit.edu.vn/dao-tao-thac-si-khoa-hoc-may-tinh;Program
+prog15;Thạc sỹ Công nghệ Thông tin;Master of Information Technology;Graduate;2;FALSE;fac6;https://www.uit.edu.vn/dao-tao-thac-si-cong-nghe-thong-tin;Program
+prog16;Thạc sỹ Hệ thống Thông tin;Master of Information Systems;Graduate;2;FALSE;fac2;https://www.uit.edu.vn/dao-tao-thac-si-he-thong-thong-tin;Program
+prog17;Thạc sỹ Kỹ thuật Máy tính;Master of Computer Engineering;Graduate;2;FALSE;fac4;https://www.uit.edu.vn/dao-tao-thac-si-ky-thuat-may-tinh;Program
+prog18;Thạc sỹ An toàn Thông tin;Master of Information Security;Graduate;2;FALSE;fac5;https://www.uit.edu.vn/dao-tao-thac-si-toan-thong-tin;Program
+prog19;Tiến sỹ Khoa học Máy tính;PhD in Computer Science;Graduate;3;FALSE;fac1;https://www.uit.edu.vn/dao-tao-tien-si-khoa-hoc-may-tinh;Program
+prog20;Tiến sỹ Công nghệ Thông tin;PhD in Information Technology;Graduate;3;FALSE;fac6;https://www.uit.edu.vn/dao-tao-tien-si-cong-nghe-thong-tin;Program

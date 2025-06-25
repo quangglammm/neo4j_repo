@@ -1,0 +1,4 @@
+﻿:START_ID;:END_ID;:TYPE
+lab1;uni;BELONGS_TO
+lab2;uni;BELONGS_TO
+lab3;uni;BELONGS_TO
