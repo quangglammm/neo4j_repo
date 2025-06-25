@@ -1,4 +1,4 @@
-﻿id:ID;name;englishName;website;:LABEL
+﻿id;name;englishName;website;label
 fac1;Khoa Khoa học Máy tính;Faculty of Computer Science;https://cs.uit.edu.vn/;Faculty
 fac2;Khoa Hệ thống Thông tin;Faculty of Information Systems;https://httt.uit.edu.vn/;Faculty
 fac3;Khoa Công nghệ Phần mềm;Faculty of Software Engineering;https://se.uit.edu.vn/vi/;Faculty

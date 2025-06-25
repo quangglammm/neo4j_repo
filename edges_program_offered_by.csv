@@ -1,4 +1,4 @@
-﻿:START_ID;:END_ID;:TYPE
+﻿start_id;end_id;type
 prog1;fac6;OFFERED_BY
 prog2;fac2;OFFERED_BY
 prog3;fac1;OFFERED_BY

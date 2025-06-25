@@ -1,4 +1,4 @@
-﻿id:ID;name;englishName;email;website;:LABEL
+﻿id;name;englishName;email;website;label
 ctr1;Trung tâm phát triển CNTT;IT Development Center;citd@uit.edu.vn;https://www.citd.vn/;Center
 ctr2;Trung tâm An ninh mạng;Cyber ​​Security Center;cnsc@uit.edu.vn;https://cnsc.uit.edu.vn/;Center
 ctr3;Trung tâm Ngoại ngữ;Foreign Language Center;cfl@uit.edu.vn;http://www.celuit.edu.vn/;Center

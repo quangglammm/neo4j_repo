@@ -1,4 +1,4 @@
-﻿:START_ID;:END_ID;:TYPE
+﻿start_id;end_id;type
 fac1;uni;BELONGS_TO
 fac2;uni;BELONGS_TO
 fac3;uni;BELONGS_TO

@@ -1,4 +1,4 @@
-﻿id:ID;name;englishName;level;durationYears;isHonor;facultyId;website;:LABEL
+﻿id;name;englishName;level;durationYears;isHonor;facultyId;website;label
 prog1;Cử nhân Công nghệ Thông tin;Bachelor of Information Technology;Undergraduate;4;FALSE;fac6;https://tuyensinh.uit.edu.vn/nganh-dao-tao/nganh-cong-nghe-thong-tin;Program
 prog2;Cử nhân Hệ thống Thông tin;Bachelor of Information Systems;Undergraduate;4;FALSE;fac2;https://tuyensinh.uit.edu.vn/nganh-dao-tao/nganh-he-thong-thong-tin;Program
 prog3;Cử nhân Khoa học Máy tính;Bachelor of Computer Science;Undergraduate;4;FALSE;fac1;https://tuyensinh.uit.edu.vn/nganh-dao-tao/nganh-khoa-hoc-may-tinh;Program

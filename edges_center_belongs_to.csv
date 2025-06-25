@@ -1,4 +1,4 @@
-﻿:START_ID;:END_ID;:TYPE
+﻿start_id;end_id;type
 ctr1;uni;BELONGS_TO
 ctr2;uni;BELONGS_TO
 ctr3;uni;BELONGS_TO
